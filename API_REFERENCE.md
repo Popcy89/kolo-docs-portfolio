@@ -1,6 +1,6 @@
-# 🧾 KOLO API Reference (Mock)
+# 🧾 KOLO API Reference
 
-> These mock APIs simulate how KOLO's backend communicates with the mobile app.
+> These APIs simulate how KOLO's backend communicates with the mobile app.
 
 ## 🔐 Authentication
 
